@@ -1,0 +1,7 @@
+#Wed Sep 06 16:06:59 EEST 2017
+base.0=C\:\\Users\\Aydin\\Desktop\\Diploma work\\DailyMovies\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bbae2f71466ebeb2a582d4b13e23508fe00f4f81
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Aydin\\Desktop\\Diploma work\\DailyMovies\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ddcf7f4c118729ffcc87b7f980c9cdb6cf572328\\classes.dex
+base.1=C\:\\Users\\Aydin\\Desktop\\Diploma work\\DailyMovies\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ddcf7f4c118729ffcc87b7f980c9cdb6cf572328
+file.0=C\:\\Users\\Aydin\\Desktop\\Diploma work\\DailyMovies\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_bbae2f71466ebeb2a582d4b13e23508fe00f4f81\\classes.dex
