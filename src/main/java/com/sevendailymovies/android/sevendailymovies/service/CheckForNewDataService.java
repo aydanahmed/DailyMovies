@@ -21,7 +21,7 @@ public class CheckForNewDataService extends Service {
             public void run() {
                 while (true) {
                     try {
-                        Thread.sleep(60000);
+                        Thread.sleep(86400000);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
